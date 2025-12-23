@@ -1,4 +1,5 @@
 # Glass-List
+<img width="1280" height="640" alt="GitHub (1280x640px)" src="https://github.com/user-attachments/assets/81c3f47e-00c5-46a1-b064-15c1bcddf2a4" />
 
 <p align="center">A task manager featuring list organization, time-based views, and a glass interface.</p>
 
